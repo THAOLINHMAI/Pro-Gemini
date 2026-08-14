@@ -1,0 +1,6 @@
+{
+  "name": "Gia Sư KHTN Lớp 8",
+  "description": "Ứng dụng ôn tập Khoa học tự nhiên 8 Kết nối tri thức với cuộc sống của tác giả Giáo Hà AI, hỗ trợ làm đề kiểm tra theo bài học và mức độ nhận thức.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
